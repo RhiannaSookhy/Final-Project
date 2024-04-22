@@ -22,21 +22,31 @@ This repository is structured as follows:
 ├── README
 ├── Econ_Final_project_Blog.html
 ├── Final Project Code.ipynb
-├── FinalProject.tex
 ├── DataSets
 ├── Plots
 ├── .ipynb_checkpoints
+├── blog.txt
 
 
-All data is contained in the DataSets folder which was used in the 'Final Project Code.ipynb' were all code can be found. The plots are saved automatically as html file when the code is tun. The blog 'Econ_Final_project_Blog.html' was written in html in a text editor and includes my analysis and plots. The FinalProject.tex file contains the link to the Github repository.
+All data is contained in the DataSets folder which was used in the 'Final Project Code.ipynb' were all code can be found. The plots are saved automatically as html file when the code is run. The blog 'Econ_Final_project_Blog.html' was written in html in a text editor and includes my analysis and plots. blog.tex file contains the link to the Github repository.
 
 ## Running instructions
 
-In order to replicate all results, ensure the datasets are in the working directory and run the code found in the jupyter file.
+A) Clone the repository to your local machine if you're viewing it on GitHub.
+
+B) Make sure you have all the required Python packages installed (listed below).
+
+C) Ensure a stable internet connection for the web scraping to function correctly.
+
+D) Execute the Jupyter notebook named "Final Project Code.ipynb" to run the code and generate plots.
+
+E) Explore the interactive plots generated, located in the "Plots" folder.
+
+F) Refer to the detailed analysis and findings in the blog post titled "Econ_Final_project_Blog.html".
 
   
 Within python (Jupyter Notebook) , a number of additional libraries are required. 
-Here's a list of Python libraries that you've imported in your project:
+Here's a list of Python libraries that I've imported in your project:
 
 requests: Used for making HTTP requests.
 BeautifulSoup (from bs4): Used for web scraping and parsing HTML.
