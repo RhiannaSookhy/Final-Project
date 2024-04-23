@@ -41,18 +41,18 @@ To successfully run the project, begin by cloning the repository from GitHub to 
 Within python (Jupyter Notebook) , a number of additional libraries are required. 
 Here's a list of Python libraries that I've imported in my project:
 
-requests: Used for making HTTP requests.
-BeautifulSoup (from bs4): Used for web scraping and parsing HTML.
-pandas: Used for data manipulation and analysis.
-numpy: Used for numerical computing and arrays.
-re: Used for regular expressions.
-plotly.express (from plotly): Used for interactive visualization.
-plotly.io (from plotly): Used for Plotly I/O operations.
-geopy: Used for geocoding and working with geographic data.
-Nominatim (from geopy.geocoders): A geocoder service for OpenStreetMap.
-sklearn.model_selection.train_test_split: Used for splitting datasets into training and testing sets.
-sklearn.ensemble.RandomForestRegressor: Used for building a random forest regression model.
-sklearn.metrics.mean_absolute_error, sklearn.metrics.mean_squared_error, sklearn.metrics.r2_score: Used for evaluating regression model performance.
+-requests: Used for making HTTP requests.
+-BeautifulSoup (from bs4): Used for web scraping and parsing HTML.
+-pandas: Used for data manipulation and analysis.
+-numpy: Used for numerical computing and arrays.
+-re: Used for regular expressions.
+-plotly.express (from plotly): Used for interactive visualization.
+-plotly.io (from plotly): Used for Plotly I/O operations.
+-geopy: Used for geocoding and working with geographic data.
+-Nominatim (from geopy.geocoders): A geocoder service for OpenStreetMap.
+-sklearn.model_selection.train_test_split: Used for splitting datasets into training and testing sets.
+-sklearn.ensemble.RandomForestRegressor: Used for building a random forest regression model.
+-sklearn.metrics.mean_absolute_error, sklearn.metrics.mean_squared_error, sklearn.metrics.r2_score: Used for evaluating regression model performance.
 
 
 ## About
