@@ -26,13 +26,16 @@ This repository is structured as follows:
 ├── Plots
 ├── .ipynb_checkpoints
 ├── blog.txt
+├── .DS_Store
+├── .gitatrributes
+
+
 
 
 All data is contained in the DataSets folder which was used in the 'Final Project Code.ipynb' were all code can be found. The plots are saved automatically as html file when the code is run. The blog 'Econ_Final_project_Blog.html' was written in html in a text editor and includes my analysis and plots. blog.tex file contains the link to the Github repository.
 
 ## Running instructions
 
-B) Make sure you have all the required Python packages installed (listed below).
 To successfully run the project, begin by cloning the repository from GitHub to your local machine. Make certain that you have all the required Python packages installed as indicated in the list. It's crucial to maintain a stable internet connection to ensure the proper functioning of the web scraping process. Next, execute the "Final Project Code.ipynb" Jupyter notebook to initiate the code execution and generate the necessary plots. Lastly, for a comprehensive analysis and detailed findings, refer to the blog post titled "Econ_Final_project_Blog.html".
   
 Within python (Jupyter Notebook) , a number of additional libraries are required. 
