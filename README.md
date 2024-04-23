@@ -6,7 +6,7 @@ Date: 2024-04-22
 
 ## Introduction
 
-Welcome to my data-driven blog. This project features interactive plots generated from thorough data analysis, aimed at delving into the impact, primarily in terms of death toll, of both historical and current pandemics.
+Welcome to my data-driven blog. This project features interactive plots generated from thorough data analysis, aimed at exploring the impact, primarily in terms of death toll, of both historical and current pandemics.
 
 Initially, the project provides a concise overview by examining pandemics that have had the highest and lowest death tolls, as well as their progression over time. Additionally, the geographical distribution of pandemics is visualised on a map to offer a spatial understanding of the data.
 
@@ -32,21 +32,11 @@ All data is contained in the DataSets folder which was used in the 'Final Projec
 
 ## Running instructions
 
-A) Clone the repository to your local machine if you're viewing it on GitHub.
-
 B) Make sure you have all the required Python packages installed (listed below).
-
-C) Ensure a stable internet connection for the web scraping to function correctly.
-
-D) Execute the Jupyter notebook named "Final Project Code.ipynb" to run the code and generate plots.
-
-E) Explore the interactive plots generated, located in the "Plots" folder.
-
-F) Refer to the detailed analysis and findings in the blog post titled "Econ_Final_project_Blog.html".
-
+To successfully run the project, begin by cloning the repository from GitHub to your local machine. Make certain that you have all the required Python packages installed as indicated in the list. It's crucial to maintain a stable internet connection to ensure the proper functioning of the web scraping process. Next, execute the "Final Project Code.ipynb" Jupyter notebook to initiate the code execution and generate the necessary plots. Lastly, for a comprehensive analysis and detailed findings, refer to the blog post titled "Econ_Final_project_Blog.html".
   
 Within python (Jupyter Notebook) , a number of additional libraries are required. 
-Here's a list of Python libraries that I've imported in your project:
+Here's a list of Python libraries that I've imported in my project:
 
 requests: Used for making HTTP requests.
 BeautifulSoup (from bs4): Used for web scraping and parsing HTML.
